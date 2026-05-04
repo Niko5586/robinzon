@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #D2B48C;
+    margin: 0;
+    padding: 1px 0; 
+}
+
+header h1 {
+    text-align: center;
+    margin: 40px 0;
+}
+
+
+
+.author {
+    margin: 20px;
+    color: #333;
+    line-height: 1.6;
+}
+
+.author h3 {
+    color: #8B4513;
+     border-bottom: 2px solid #D2B48C;
+    display: inline-block;
+}
+.kartina-pisatyla{
+    color: #8B4513;
+    font-weight: bold;
+}
+img {
+  border: 10px solid #8B4513; 
+  padding: 5px;               
+  background-color: #D2B48C;  
+  border-radius: 10px;        
+  display: block;            
+  margin: 20px auto;         
+}
+.book-info {
+  background-color: #FDF5E6; 
+  border: 2px solid #8B4513;
+  border-radius: 0px;       
+  padding: 20px;
+  margin: 20px;
+  line-height: 1.6;          
+}
+
+.book-info h2 {
+  color: #8B4513;
+  margin-top: 0;
+  border-bottom: 1px solid #D2B48C; 
+  padding-bottom: 5px;
+}
+
+.book-info ul {
+  padding-left: 20px;       
+}
+
+.book-info li {
+  margin-bottom: 10px;
+}
+hr {
+    border: 0;
+    border-top: 2px solid #8B4513;
+    margin: 20px 0;
+}
+.podval {
+    background-color: #D2B48C; 
+    margin: 0;
+    padding: 40px 0;           
+    text-align: center;       
+    width: 100%;             
+}
+
+.podval h2 {
+    margin: 0;
+    font-family: sans-serif;   
+    color: #3e2723;           
+}
+
+.content {
+    max-width: 800px;  
+    margin: 40px auto; 
+    padding: 0 20px;   
+    font-family: Arial, sans-serif;
+    color: #5D4037;    
+}
+
+h3 {
+    text-align: center;
+    color: #8B4513;    
+    font-size: 24px;
+}
+
+.chapter {
+    background-color: #FFFDD0; 
+    border-left: 5px solid #D2B48C; 
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.chapter strong {
+    display: block;
+    margin-bottom: 5px;
+    color: #8B4513;
+}
+
+.chapter p {
+    margin: 0;
+    line-height: 1.5; 
+}
+
+
+
